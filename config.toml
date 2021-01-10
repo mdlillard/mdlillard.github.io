@@ -1,0 +1,4 @@
+baseURL = "http://mdlillard.github.io/"
+languageCode = "en-us"
+title = "Things Arch"
+theme = "hello-friend-ng"
